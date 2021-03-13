@@ -1,0 +1,20 @@
+* {
+  font-size: len;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img {
+  width: 200px;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.box {
+  border: 2px solid black;
+  border-color: dimgray;
+  border-style: solid;
+  margin: 20px 0;
+  padding: 10px;
+}
